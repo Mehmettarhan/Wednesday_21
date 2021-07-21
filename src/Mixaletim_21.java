@@ -5,5 +5,6 @@ public class Mixaletim_21 {
 
         System.out.println("Adnan");
         System.out.println("12345678");
+        System.out.println("" + "");
     }
 }
